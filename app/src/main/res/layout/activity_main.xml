@@ -7,4 +7,6 @@
     android:id="@+id/container"
     tools:context=".MainActivity">
 
+<!--    <include layout="@layout/text_views"/>-->
+
 </androidx.constraintlayout.widget.ConstraintLayout>
